@@ -1,0 +1,130 @@
+.card {
+    padding: 30px;
+    margin: 30px;
+    background: rgb(90, 120, 142) !important;
+    border-color: rgb(157, 188, 211) !important;
+}
+
+.card h1 {
+    color: white;
+    font-size: 52px;
+}
+
+.card p {
+    color: white;
+    font-size: 22px;
+}
+
+.profile-pic {
+    height: 450px;
+    width: 450px;
+    border-radius: 100%;
+}
+
+label {
+    color: lightskyblue;
+    font-size: 16pt;
+}
+
+.row-item {
+    height: 300px;
+    width: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 100px;
+}
+
+.row-item a{
+    color: white;
+    text-decoration: none;
+    font-size: 20pt;
+}
+
+.row-item a:hover {
+    color: lightskyblue;
+}
+
+
+.project-1 {
+    background-image: url('../assets/passgen.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-2 {
+    background-image: url('../assets/groupie.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-3 {
+    background-image: url('../assets/wcwfts.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-4 {
+    background-image: url('../assets/passgen.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-5 {
+    background-image: url('../assets/groupie.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-6 {
+    background-image: url('../assets/wcwfts.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-1:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/passgen.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-2:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/groupie.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-3:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/wcwfts.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-4:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/passgen.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-5:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/groupie.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.project-6:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/wcwfts.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}

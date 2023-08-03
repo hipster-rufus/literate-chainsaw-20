@@ -1,0 +1,27 @@
+.header-title {
+    font-size: 80pt;
+    color: lightskyblue;
+    text-shadow: 0px 0px 14px rgb(59, 167, 209);
+}
+
+.header-subtitle {
+    letter-spacing: 14pt;
+    color: lightskyblue;
+    text-shadow: 0px 0px 7px rgb(59, 167, 209);
+}
+
+.nav-item {
+    font-size: 28pt;
+    padding-inline: 24px;
+    color: lightskyblue;
+    text-shadow: 0px 0px 7px rgb(59, 167, 209);
+}
+
+.nav-item a {
+    color: lightskyblue;
+}
+
+.nav-item a:hover {
+    color: white;
+    text-shadow: 0px 0px 7px lightskyblue;
+}
