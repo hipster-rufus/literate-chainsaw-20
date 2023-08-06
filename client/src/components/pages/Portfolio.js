@@ -32,8 +32,10 @@ export default function Blog() {
           <br />
           <a href="https://github.com/hipster-rufus/legendary-broccoli-11">GitHub Repository</a>
         </div>
-        <div className='project-6 col-xl-4 g-3 row-item'>
-          <a inactive href="/">Coming Soon</a>
+        <div className='project-6 col-xl-4 g-3 row-item'> 
+          <a href="https://hipster-rufus.github.io/jubilant-fishstick-2/">Original HTML Resume</a>
+          <br />
+          <a href="https://github.com/hipster-rufus/jubilant-fishstick-2/">GitHub Repository</a>
         </div>
       </section>
     </div>

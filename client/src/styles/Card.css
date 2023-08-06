@@ -103,6 +103,13 @@ label {
     background-attachment: inherit;
 }
 
+.project-6 {
+    background-image: url('../assets/html-resume.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
 .project-1:hover {
     background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/passgen.jpg');
     background-size: 100%;
@@ -139,5 +146,8 @@ label {
 }
 
 .project-6:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60));
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/html-resume.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
 }
