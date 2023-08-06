@@ -7,7 +7,7 @@ The Module 20 Challenge is a professional porfolio using all learned technologie
 To browse my portfolio, click on this link: <br > 
 [My Portfolio](https://hipster-rufus.github.io/literate-chainsaw-20) <br >
 
-![Porfolio Page](./client/src/assets/react-resume.jpg)
+![Porfolio Page](./src/assets/react-resume.jpg)
 The website provides several navigation tabs to cycle through each feature and its contents: About Me, Portfolio, Contact, and Resume. Any interested employer can click on the About Me tab to read a short summary of me and view a picture. Under the Portfolio tab, the user is provided with a link to each deployed application/website, its GitHub repository, and a preview image. They can enter their contact information under the Contact tab, which requires are fields be filled out. A download of my full resume is available under the Resume tab as well as a list of my skills. The page demonstrates full responsiveness to any sized screen. At the bottom of the screen there are links to my profiles for GitHub and LinkedIn. 
 
 ## Credits
