@@ -21,6 +21,29 @@
     border-radius: 100%;
 }
 
+@media screen and (max-width: 768px) {
+    .profile-pic {
+        height: 350px;
+        width: 350px;
+        border-radius: 100%;
+    }
+}
+
+.resume-link {
+    color: lightskyblue !important;
+    text-decoration: none !important;
+}
+
+.resume-link:hover {
+    color: lightpink !important;
+    text-decoration: none !important;
+}
+
+.resume-link:active {
+    color: palevioletred !important;
+    text-decoration: none !important;
+}
+
 label {
     color: lightskyblue;
     font-size: 16pt;
@@ -46,85 +69,75 @@ label {
 
 
 .project-1 {
-    background-image: url('../assets/passgen.png');
+    background-image: url('../assets/passgen.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-2 {
-    background-image: url('../assets/groupie.png');
+    background-image: url('../assets/groupie.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-3 {
-    background-image: url('../assets/wcwfts.png');
+    background-image: url('../assets/wcwfts.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-4 {
-    background-image: url('../assets/passgen.png');
+    background-image: url('../assets/workschedule.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-5 {
-    background-image: url('../assets/groupie.png');
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-attachment: inherit;
-}
-
-.project-6 {
-    background-image: url('../assets/wcwfts.png');
+    background-image: url('../assets/notetaker.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-1:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/passgen.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/passgen.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-2:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/groupie.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/groupie.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-3:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/wcwfts.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/wcwfts.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-4:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/passgen.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/workschedule.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-5:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/groupie.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/notetaker.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: inherit;
 }
 
 .project-6:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../assets/wcwfts.png');
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-attachment: inherit;
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60));
 }

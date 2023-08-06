@@ -1,0 +1,15 @@
+.resume-link {
+    color: lightskyblue !important;
+    text-decoration: none !important;
+    font-size: 18pt;
+}
+
+.resume-link:hover {
+    color: lightpink !important;
+    text-decoration: none !important;
+}
+
+.resume-link:active {
+    color: palevioletred !important;
+    text-decoration: none !important;
+}

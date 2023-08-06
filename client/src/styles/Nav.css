@@ -2,6 +2,7 @@
     font-size: 80pt;
     color: lightskyblue;
     text-shadow: 0px 0px 14px rgb(59, 167, 209);
+    text-decoration: none;
 }
 
 .header-subtitle {
@@ -24,4 +25,9 @@
 .nav-item a:hover {
     color: white;
     text-shadow: 0px 0px 7px lightskyblue;
+}
+
+.nav-item a:focus {
+    color: lightpink;
+    text-shadow: 0px 0px 7px palevioletred;
 }

@@ -1,0 +1,19 @@
+.profiles-list {
+    list-style-type: none;
+}
+
+.profile-link {
+    color: lightskyblue !important;
+    text-decoration: none !important;
+    font-size: 18pt;
+}
+
+.profile-link:hover {
+    color: lightpink !important;
+    text-decoration: none !important;
+}
+
+.profile-link:active {
+    color: palevioletred !important;
+    text-decoration: none !important;
+}
