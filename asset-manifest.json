@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/literate-chainsaw-20/static/css/main.9c121725.css",
+    "main.js": "/literate-chainsaw-20/static/js/main.33056ba7.js",
+    "static/media/bkgd2.png": "/literate-chainsaw-20/static/media/bkgd2.bcc404de25e92528e789.png",
+    "static/media/kali-lott.jpeg": "/literate-chainsaw-20/static/media/kali-lott.c287dc6609aec5ec92f4.jpeg",
+    "static/media/groupie.jpg": "/literate-chainsaw-20/static/media/groupie.157d188d18f299d9931f.jpg",
+    "static/media/workschedule.jpg": "/literate-chainsaw-20/static/media/workschedule.a2a134b700351df1606d.jpg",
+    "static/media/wcwfts.jpg": "/literate-chainsaw-20/static/media/wcwfts.b8ed7c64e513b7a14489.jpg",
+    "static/media/passgen.jpg": "/literate-chainsaw-20/static/media/passgen.4df02998899a0cf55de3.jpg",
+    "static/media/html-resume.jpg": "/literate-chainsaw-20/static/media/html-resume.fe252e943e29c40bddad.jpg",
+    "static/media/notetaker.jpg": "/literate-chainsaw-20/static/media/notetaker.1543a4228c1a95a647c5.jpg",
+    "index.html": "/literate-chainsaw-20/index.html",
+    "main.9c121725.css.map": "/literate-chainsaw-20/static/css/main.9c121725.css.map",
+    "main.33056ba7.js.map": "/literate-chainsaw-20/static/js/main.33056ba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c121725.css",
+    "static/js/main.33056ba7.js"
+  ]
+}
