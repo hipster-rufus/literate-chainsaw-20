@@ -17,6 +17,11 @@ export default function Blog() {
           <br />
           <a href="https://github.com/mlgibson8/Project_2_Group_5">GitHub Repository</a>
         </div>
+        <div className='project-7 col-xl-4 g-3 row-item'>     
+          <a href="https://project-3-v2-b959c8bb33b5.herokuapp.com/">BrewFly</a>
+          <br />
+          <a href="https://github.com/hipster-rufus/project-3-v2/">GitHub Repository</a>
+        </div>
         <div className='project-1 col-xl-4 g-3 row-item'>
           <a href="https://hipster-rufus.github.io/animated-bassoon-3/">Random Password Generator</a>
           <br />
