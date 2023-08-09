@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/literate-chainsaw-20/static/css/main.9c121725.css",
-    "main.js": "/literate-chainsaw-20/static/js/main.11c6fceb.js",
+    "main.css": "/literate-chainsaw-20/static/css/main.cf505c83.css",
+    "main.js": "/literate-chainsaw-20/static/js/main.ba5ab3ba.js",
     "static/media/bkgd2.png": "/literate-chainsaw-20/static/media/bkgd2.bcc404de25e92528e789.png",
     "static/media/kali-lott.jpeg": "/literate-chainsaw-20/static/media/kali-lott.c287dc6609aec5ec92f4.jpeg",
+    "static/media/brewfly-app.jpg": "/literate-chainsaw-20/static/media/brewfly-app.9c73b777bf5b3cabdf02.jpg",
     "static/media/groupie.jpg": "/literate-chainsaw-20/static/media/groupie.157d188d18f299d9931f.jpg",
     "static/media/workschedule.jpg": "/literate-chainsaw-20/static/media/workschedule.a2a134b700351df1606d.jpg",
     "static/media/wcwfts.jpg": "/literate-chainsaw-20/static/media/wcwfts.b8ed7c64e513b7a14489.jpg",
@@ -11,11 +12,11 @@
     "static/media/html-resume.jpg": "/literate-chainsaw-20/static/media/html-resume.fe252e943e29c40bddad.jpg",
     "static/media/notetaker.jpg": "/literate-chainsaw-20/static/media/notetaker.1543a4228c1a95a647c5.jpg",
     "index.html": "/literate-chainsaw-20/index.html",
-    "main.9c121725.css.map": "/literate-chainsaw-20/static/css/main.9c121725.css.map",
-    "main.11c6fceb.js.map": "/literate-chainsaw-20/static/js/main.11c6fceb.js.map"
+    "main.cf505c83.css.map": "/literate-chainsaw-20/static/css/main.cf505c83.css.map",
+    "main.ba5ab3ba.js.map": "/literate-chainsaw-20/static/js/main.ba5ab3ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c121725.css",
-    "static/js/main.11c6fceb.js"
+    "static/css/main.cf505c83.css",
+    "static/js/main.ba5ab3ba.js"
   ]
 }
